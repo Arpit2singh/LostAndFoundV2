@@ -8,7 +8,7 @@ function App() {
   const [count, setCount] = useState(0)
 
   return (
-  <div className='bg-black h-screen w-screen text-white'>
+  <div className='h-full w-screen text-white'>
     <Frontui/>
   </div>
   )
